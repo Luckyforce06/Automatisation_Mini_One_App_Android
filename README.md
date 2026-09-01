@@ -38,5 +38,5 @@ Une application Android / Flutter conçue pour automatiser les tâches d'infodiv
 
 1. **Cloner le projet :**
    ```bash
-   git clone [[https://github.com/votre-utilisateur/appmini.git](https://github.com/votre-utilisateur/appmini.git)](https://github.com/Luckyforce06/Automatisation_Mini_One_App_Android)
+   git clone https://github.com/Luckyforce06/Automatisation_Mini_One_App_Android
    cd appmini
